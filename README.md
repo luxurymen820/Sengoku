@@ -226,4 +226,4 @@ Sengoku is provided as the full free version, with all features and updates incl
 Don't miss out on the chance to conquer feudal Japan! Download **Sengoku** now and lead your clan to glory!
 
 ---
-**Last updated:** 2026-10-02 01:07:27 UTC
+**Last updated:** 2026-10-02 07:35:56 UTC
